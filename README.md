@@ -1,2 +1,2 @@
 # python-sfere
-Initiation à l'algorithmique pour les étydiants du groupe SFERE
+Initiation à l'algorithmique pour les étudiants du groupe SFERE
